@@ -1,9 +1,9 @@
 # 2016fallcadp_hw
 
 # Solvespace 
-2016fallcadp ¹q¸£»²§U³]­p¹ê²ß½Òµ{_Solvespace½m²ß:
+2016fallcadp é›»è…¦è¼”åŠ©è¨­è¨ˆå¯¦ç¿’èª²ç¨‹ Solvespace:
 
-½m²ß¹s¥óÃ¸»s: http://solvespace.com/bracket.pl
+ç·´ç¿’é›¶ä»¶ç¹ªè£½: http://solvespace.com/bracket.pl
 
-vimeo: https://vimeo.com/188134062
+ç·´ç¿’å½±ç‰‡ä¸Šå‚³è‡³vimeo(ç„¡è²ç‰ˆ): https://vimeo.com/188134062
 
