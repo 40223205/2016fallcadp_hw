@@ -4,6 +4,8 @@
 
 網誌:https://40223205.github.io/2016fallcadp_hw/blog/index.html
 
+vimeo:https://vimeo.com/user41090834/videos
+
 ## Solvespace 
 2016fallcadp 電腦輔助設計實習課程 Solvespace:
 
