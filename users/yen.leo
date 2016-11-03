@@ -138,8 +138,6 @@
 <v t="leo.20161104011926.1"><vh>@edit 20161020.md</vh></v>
 <v t="yen.20161022120807.1"><vh>@@edit 20161101.md</vh></v>
 <v t="leo.20161104011933.1"><vh>@edit 20161101.md</vh></v>
-<v t="leo.20161027150608.1"><vh>@@edit mynum_20161027.md</vh></v>
-<v t="leo.20161104013125.1"><vh>@edit mynum_20161027.md</vh></v>
 </v>
 </v>
 </v>
@@ -585,26 +583,6 @@ Onshape為線上註冊使用的web型繪圖載具、相較於Solvespace來說可
 ### 導入影片 template
 
 &lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
-<t tx="leo.20161027150608.1">@language md
-Title: 2016Fall w7 四連桿機構模擬
-Date: 2016-10-27 12:00
-Category: Misc
-Tags: fourbar
-Author: 40223205
-
-已經四連桿各桿尺寸, 當機構繞行一圈後求特定點的座標, 以 Solvespace 進行點座標追蹤存檔, 得到 &lt;a href="./../w7/w7_fourbar.csv"&gt;w7_fourbar.csv&lt;/a&gt;, 根據下圖, 試驗證 Solvespace 機構模擬的資料之正確性.
-
-&lt;!-- PELICAN_END_SUMMARY --&gt;
-
-&lt;img src="./../w7/cadp_w7_fourbar.png" width="600" /&gt;
-
-Solvespace 四連桿圖檔:
-
-&lt;a href="./../w7/w7_fourbar.slvs"&gt;w7_fourbar.slvs&lt;/a&gt; (請以滑鼠右鍵存檔)
-
-參考: &lt;a href="http://mechanicalexpressions.com/explore/kinematics/4-bar-linkage.html"&gt;http://mechanicalexpressions.com/explore/kinematics/4-bar-linkage.html&lt;/a&gt;
-
 </t>
 <t tx="leo.20161027151655.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
