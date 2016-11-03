@@ -1,4 +1,7 @@
-# 2016fallcadp_hw
+# 40223205-2016fallcadp_hw
+
+簡報:https://40223205.github.io/2016fallcadp_hw/#/
+網誌:https://40223205.github.io/2016fallcadp_hw/blog/index.html
 
 ## Solvespace 
 2016fallcadp 電腦輔助設計實習課程 Solvespace:
