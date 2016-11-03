@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/zuo-ye.atom.xml" rel="self"></link><id>./</id><updated>2016-11-01T12:00:00+08:00</updated><entry><title>40223205 Onshape 零件練習</title><link href="./40223205-onshape-ling-jian-lian-xi.html" rel="alternate"></link><published>2016-11-01T12:00:00+08:00</published><updated>2016-11-01T12:00:00+08:00</updated><author><name>40223205</name></author><id>tag:,2016-11-01:./40223205-onshape-ling-jian-lian-xi.html</id><summary type="html">&lt;p&gt;2016/11/01  Onshape 零件練習&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/zuo-ye.atom.xml" rel="self"></link><id>./</id><updated>2016-11-03T12:00:00+08:00</updated><entry><title>2016Fall w7 四連桿機構模擬</title><link href="./2016fall-w7-si-lian-gan-ji-gou-mo-ni.html" rel="alternate"></link><published>2016-11-03T12:00:00+08:00</published><updated>2016-11-03T12:00:00+08:00</updated><author><name>40223205</name></author><id>tag:,2016-11-03:./2016fall-w7-si-lian-gan-ji-gou-mo-ni.html</id><summary type="html">&lt;p&gt;已經四連桿各桿尺寸, 當機構繞行一圈後求特定點的座標, 以 Solvespace 進行點座標追蹤存檔, 得到 &lt;a href="./../w7/w7_fourbar.csv"&gt;w7_fourbar.csv&lt;/a&gt;, 根據下圖, 試驗證 Solvespace 機構模擬的資料之正確性.&lt;/p&gt;
 
 
-&lt;h1&gt;機械設計主題教學&lt;/h1&gt;</summary><category term="作業"></category><category term="Onshape"></category></entry><entry><title>40223205 Solvespace-練習零件繪製</title><link href="./40223205-solvespace-lian-xi-ling-jian-hui-zhi.html" rel="alternate"></link><published>2016-10-20T12:00:00+08:00</published><updated>2016-10-20T12:00:00+08:00</updated><author><name>40223205</name></author><id>tag:,2016-10-20:./40223205-solvespace-lian-xi-ling-jian-hui-zhi.html</id><summary type="html">&lt;p&gt;2016/10/20  Solvespace-練習零件繪製&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../w7/cadp_w7_fourbar.png" width="600" /&gt;&lt;/p&gt;
+&lt;p&gt;Solvespace 四連桿圖檔:&lt;/p&gt;
+&lt;p&gt;&lt;a href="./../w7/w7_fourbar.slvs"&gt;w7_fourbar.slvs&lt;/a&gt; (請以滑鼠右鍵存檔)&lt;/p&gt;
+&lt;p&gt;參考: &lt;a href="http://mechanicalexpressions.com/explore/kinematics/4-bar-linkage.html"&gt;http://mechanicalexpressions.com/explore/kinematics/4-bar-linkage.html&lt;/a&gt;&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>11/01_Onshape 零件練習(無聲)</title><link href="./1101_onshape-ling-jian-lian-xi-wu-sheng.html" rel="alternate"></link><published>2016-11-01T12:00:00+08:00</published><updated>2016-11-01T12:00:00+08:00</updated><author><name>40223205</name></author><id>tag:,2016-11-01:./1101_onshape-ling-jian-lian-xi-wu-sheng.html</id><summary type="html">&lt;iframe src="https://player.vimeo.com/video/189767174" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Onshape為線上註冊即可使用的web繪圖載具,他比Solvespace更加的方便
+線上改圖和共享檔案方便輕鬆
+其中的一點是比Solvespace的[使用者介面]用起來舒服&lt;/p&gt;</summary><category term="作業"></category><category term="Onshape"></category></entry><entry><title>10/20_Solvespace-練習零件繪製(無聲)</title><link href="./1020_solvespace-lian-xi-ling-jian-hui-zhi-wu-sheng.html" rel="alternate"></link><published>2016-10-20T12:00:00+08:00</published><updated>2016-10-20T12:00:00+08:00</updated><author><name>40223205</name></author><id>tag:,2016-10-20:./1020_solvespace-lian-xi-ling-jian-hui-zhi-wu-sheng.html</id><summary type="html">&lt;iframe src="https://player.vimeo.com/video/188134062" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 
-&lt;h1&gt;機械設計主題教學&lt;/h1&gt;</summary><category term="作業"></category><category term="Solvespace"></category></entry><entry><title>40223205 Solvespace-練習零件繪製(無聲)</title><link href="./40223205-solvespace-lian-xi-ling-jian-hui-zhi-wu-sheng.html" rel="alternate"></link><published>2016-10-20T12:00:00+08:00</published><updated>2016-10-20T12:00:00+08:00</updated><author><name>40223205</name></author><id>tag:,2016-10-20:./40223205-solvespace-lian-xi-ling-jian-hui-zhi-wu-sheng.html</id><summary type="html">&lt;p&gt;2016/10/20 - 40223205 Solvespace-練習零件繪製&lt;/p&gt;
 
-
-&lt;h1&gt;機械設計主題教學&lt;/h1&gt;</summary><category term="作業"></category><category term="Solvespace"></category></entry></feed>
+&lt;p&gt;Solvespace容量小攜帶方便,可以畫出簡易的圖形
+相較於 Inventor 、solidwork 是一個輕巧不須付大量費用的選擇 .&lt;/p&gt;</summary><category term="作業"></category><category term="Solvespace"></category></entry></feed>
