@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2016-11-03T22:34:17-00:00</lastmod>
+<lastmod>2016-11-03T23:39:53-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2016-11-03T22:34:17-00:00</lastmod>
+<lastmod>2016-11-03T23:39:53-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2016-11-03T22:34:17-00:00</lastmod>
+<lastmod>2016-11-03T23:39:53-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2016-11-03T22:34:17-00:00</lastmod>
+<lastmod>2016-11-03T23:39:53-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./pages/about/</loc>
-<lastmod>2016-11-03T19:49:32+08:00</lastmod>
+<lastmod>2016-11-03T23:22:10+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./40223205-onshape-ling-jian-lian-xi.html</loc>
+<lastmod>2016-11-01T12:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -60,6 +67,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>./40223205-solvespace-lian-xi-ling-jian-hui-zhi-wu-sheng.html</loc>
+<lastmod>2016-10-20T12:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>./category/misc.html</loc>
 <lastmod>2016-10-27T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
@@ -67,8 +81,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./category/zuo-ye-hw-solvespace.html</loc>
-<lastmod>2016-10-20T12:00:00+08:06</lastmod>
+<loc>./category/zuo-ye.html</loc>
+<lastmod>2016-11-01T12:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/onshape.html</loc>
+<lastmod>2016-11-01T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -81,7 +102,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/solvespacelian-xi-ling-jian-hui-zhi.html</loc>
+<loc>./tag/zuo-ye.html</loc>
+<lastmod>2016-11-01T12:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/solvespace.html</loc>
 <lastmod>2016-10-20T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -96,7 +124,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./author/40223205.html</loc>
-<lastmod>2016-10-27T12:00:00+08:06</lastmod>
+<lastmod>2016-11-01T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

@@ -136,10 +136,11 @@
 <v t="amd.20151215170031.1" a="E"><vh>@path ./../content</vh>
 <v t="amd.20160106093454.1" a="E"><vh>yen 所寫的網誌文章</vh>
 <v t="amd.20160727114506.1" a="E"><vh>201609</vh>
+<v t="leo.20161103233507.1"><vh>@edit 20161101.md</vh></v>
 <v t="leo.20161103222320.1"><vh>@@edit 20160921.md</vh></v>
 <v t="amd.20160727120222.1"><vh>@edit 20160921.md</vh></v>
-<v t="yen.20161022120807.1"><vh>@edit 20161022.md</vh></v>
-<v t="leo.20161027150608.1"><vh>@edit mynum_20161027.md</vh></v>
+<v t="yen.20161022120807.1"><vh>@@edit 20161022.md</vh></v>
+<v t="leo.20161027150608.1"><vh>@@edit mynum_20161027.md</vh></v>
 </v>
 </v>
 </v>
@@ -709,6 +710,26 @@ make.start()
 
 &lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
+<t tx="leo.20161027150608.1">@language md
+Title: 2016Fall w7 四連桿機構模擬
+Date: 2016-10-27 12:00
+Category: Misc
+Tags: fourbar
+Author: 40223205
+
+已經四連桿各桿尺寸, 當機構繞行一圈後求特定點的座標, 以 Solvespace 進行點座標追蹤存檔, 得到 &lt;a href="./../w7/w7_fourbar.csv"&gt;w7_fourbar.csv&lt;/a&gt;, 根據下圖, 試驗證 Solvespace 機構模擬的資料之正確性.
+
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;img src="./../w7/cadp_w7_fourbar.png" width="600" /&gt;
+
+Solvespace 四連桿圖檔:
+
+&lt;a href="./../w7/w7_fourbar.slvs"&gt;w7_fourbar.slvs&lt;/a&gt; (請以滑鼠右鍵存檔)
+
+參考: &lt;a href="http://mechanicalexpressions.com/explore/kinematics/4-bar-linkage.html"&gt;http://mechanicalexpressions.com/explore/kinematics/4-bar-linkage.html&lt;/a&gt;
+
+</t>
 <t tx="leo.20161027151655.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1028,6 +1049,97 @@ def domake():
 # 利用執行緒執行 https 伺服器
 make = threading.Thread(target=domake)
 make.start()</t>
+<t tx="yen.20161022120807.1">@language md
+Title: 2016Fall 程式練習題
+Date: 2016-10-22 12:00
+Category: Misc
+Tags: 使用導引
+Author: 40223205
+
+已知截至第六週 2016fallcadpa 的分組資料位於倉儲中的 &lt;a href="./../w6_group.txt"&gt;w6_group.txt&lt;/a&gt;, 而從學校修課系統下載的修課人員名條則為 &lt;a href="./../w6_list.txt"&gt;w6_list.txt&lt;/a&gt;, 請各組著手練習, 找出尚未納入分組的人員名單, 並研擬如何處置上課一個半月卻尚未進入情況的學員?
+
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+以下利用 Brython 讀取位於倉儲中的 &lt;a href="./../w6_list.txt"&gt;w6_list.txt&lt;/a&gt; 與 &lt;a href="./../w6_group.txt"&gt;w6_group.txt&lt;/a&gt; 資料檔案.
+
+表示學校教務系統中, 修 2016fallcadpa 的學員名單為:
+
+&lt;!-- 導入 Brython 標準程式庫 --&gt;
+&lt;script type="text/javascript" 
+    src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js"&gt;
+&lt;/script&gt;
+
+&lt;!-- 啟動 Brython --&gt;
+&lt;script&gt;
+window.onload=function(){
+brython(1);
+}
+&lt;/script&gt;
+
+&lt;!-- 以下利用 Brython 程式執行檔案讀取與比對流程 --&gt;
+&lt;!-- 假如需要用圖型表示數字, 則利用 canvas 繪圖 --&gt;
+&lt;!-- &lt;canvas id="plotarea" width="600" height="400"&gt;&lt;/canvas&gt; --&gt;
+
+&lt;div id="container"&gt;&lt;/div&gt;
+
+&lt;script type="text/python3" id="script1"&gt;
+from browser import document, html
+container = document['container']
+data = open("./../w6_list.txt").read()
+container &lt;= data
+&lt;/script&gt;
+
+&lt;br /&gt;
+&lt;br /&gt;
+
+而截至 w6, 納入分組名單中的學員有:
+
+&lt;div id="container2"&gt;&lt;/div&gt;
+
+&lt;script type="text/python3"&gt;
+from browser import document, html
+container2 = document['container2']
+data = open("./../w6_group.txt").read()
+container2 &lt;= data
+&lt;/script&gt;
+
+&lt;br /&gt;
+&lt;br /&gt;
+
+現在, 誰能夠幫我們找出至今尚未納入分組名單中的學員, 共有那些人？
+
+&lt;div id="container3"&gt;&lt;/div&gt;
+
+&lt;script type="text/python3"&gt;
+from browser import document, html
+# 從 id=script1 程式區段取 data 變數
+from script1 import data
+container3 = document['container3']
+data3 = open("./../w6_group.txt").read()
+group = data3.splitlines()
+# 希望將分組資料轉為學員數列, 令為變數名稱 result_g
+result_g = []
+# 已經註冊者數列設為 registered
+registered = []
+for line in group:
+    # 去除每一行最後的空白成員
+    sline = line.split(",")
+    # 再將各組拆成個別組員後, 串成 result_g
+    for m in sline:
+        result_g.append(m)
+    #container3 &lt;= len(sline)
+    #container3 &lt;= html.BR()
+#container3 &lt;= len(result_g)
+registered = data.splitlines()[:-1]
+# 設法找出至今尚未分組的學員學號
+not_in_group = [c for c in registered if c not in result_g]
+#container3 &lt;= len(registered) -len(result_g)
+n = 1
+for i in not_in_group:
+    container3 &lt;= "第"+str(n)+"位: "+ str(i)
+    n = n + 1
+    container3 &lt;= html.BR()
+&lt;/script&gt;</t>
 <t tx="yen.20161022151728.1">sudo openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout localhost.key -out localhost.crt
 
 </t>
