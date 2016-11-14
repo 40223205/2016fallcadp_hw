@@ -25,13 +25,13 @@
 <v t="amd.20161004083800.5" a="E"><vh>body</vh>
 <v t="amd.20161004083800.6" a="E"><vh>reveal div</vh>
 <v t="amd.20161004083800.7" a="E"><vh>slides div</vh>
-<v t="amd.20161004095719.1"><vh>封面投影片</vh>
+<v t="amd.20161004095719.1" a="E"><vh>封面投影片</vh>
 <v t="amd.20161004095719.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="yen.20161016024324.1" a="E"><vh>hw</vh>
 <v t="yen.20161016024324.2"><vh>10/20</vh></v>
 </v>
-<v t="leo.20161013151511.1" a="E"><vh>hw</vh>
+<v t="leo.20161013151511.1"><vh>hw</vh>
 <v t="leo.20161013151511.2" a="E"><vh>hw</vh>
 <v t="leo.20161013151511.3"><vh>11/01</vh></v>
 </v>
@@ -56,18 +56,18 @@
 </v>
 </v>
 <v t="yen.20161016024451.1" a="E"><vh>CADP 課程倉儲</vh>
-<v t="yen.20161016024451.2" a="E"><vh>課程時段與規劃</vh>
-<v t="yen.20161016024451.3"><vh>規劃、Wiki 與網誌</vh></v>
+<v t="yen.20161016024451.2" a="E"><vh>不可放置</vh>
+<v t="yen.20161016024451.3"><vh>Solvespace的2D繪製</vh></v>
 </v>
-<v t="yen.20161016024451.4" a="E"><vh>下載 miniconda 可攜環境</vh>
-<v t="yen.20161016024451.5"><vh>下載可攜程式環境</vh></v>
+<v t="yen.20161016024451.4" a="E"><vh>不可放置</vh>
+<v t="yen.20161016024451.5"><vh>Onshape的2D繪製</vh></v>
 </v>
-<v t="yen.20161016024451.6" a="E"><vh>學員自評項目</vh>
-<v t="yen.20161016024451.7"><vh>下載可攜程式環境</vh></v>
+<v t="yen.20161016024451.6" a="E"><vh>不可放置</vh>
+<v t="yen.20161016024451.7"><vh>Onshape的2D繪製心得</vh></v>
 </v>
 </v>
 <v t="leo.20161013184628.1" a="E"><vh>電腦輔助設計課程內涵</vh>
-<v t="amd.20161004112026.1" a="E"><vh>電腦輔助設計課程內涵</vh>
+<v t="amd.20161004112026.1"><vh>電腦輔助設計課程內涵</vh>
 <v t="amd.20161004112026.2"><vh>CAD 教學主題</vh></v>
 </v>
 <v t="leo.20161013152737.1" a="E"><vh>Github pages 網頁</vh>
@@ -138,6 +138,7 @@
 <v t="leo.20161104011926.1"><vh>@edit 20161020.md</vh></v>
 <v t="yen.20161022120807.1"><vh>@@edit 20161101.md</vh></v>
 <v t="leo.20161104011933.1"><vh>@edit 20161101.md</vh></v>
+<v t="leo.20161114201406.1"><vh>@edit 20161114.md</vh></v>
 </v>
 </v>
 </v>
@@ -295,7 +296,6 @@ Created by [40223205](https://40223205.github.io/2016fallcadp_hw/blog/index.html
 &lt;/section&gt;
 
 
-						
 </t>
 <t tx="amd.20161004112026.2"></t>
 <t tx="leo.20151212173315.1"></t>
@@ -500,7 +500,8 @@ Onshape為線上註冊使用的web型繪圖載具、相較於Solvespace來說可
 <t tx="leo.20161013152737.2"></t>
 <t tx="leo.20161013184628.1">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20161013184753.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
@@ -685,9 +686,13 @@ Author: 40223205
 &lt;/section&gt;
 
 
-						
+
 </t>
-<t tx="yen.20161016024451.3"></t>
+<t tx="yen.20161016024451.3">Solvespace的2D繪製
+
+&lt;iframe src="https://player.vimeo.com/video/191365819" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+Solvespace繪製2D有點麻煩,因過學過其他的軟體,所以使用起來有點不直覺和不慣用</t>
 <t tx="yen.20161016024451.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -698,6 +703,12 @@ Author: 40223205
 						
 </t>
 <t tx="yen.20161016024451.5">
+Onshape的2D繪製
+
+
+&lt;iframe src="https://player.vimeo.com/video/191464379" width="640" height="492" frameborder="0" 
+webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
 </t>
 <t tx="yen.20161016024451.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -708,7 +719,12 @@ Author: 40223205
 
 						
 </t>
-<t tx="yen.20161016024451.7"></t>
+<t tx="yen.20161016024451.7">                                                                 Onshape的2D繪製心得
+
+Onshape在繪製2d過是輕鬆的,使用介面與指令和cad 一致 所以學過此軟體的人都可以得心應手指令
+當中使用到的指令有 C-圓、D-標註、X-修剪
+在按指令的過程中反應是有點慢
+</t>
 <t tx="yen.20161016203728.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
