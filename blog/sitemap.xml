@@ -5,35 +5,49 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2016-11-14T21:07:22-00:00</lastmod>
+<lastmod>2016-12-09T12:03:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2016-11-14T21:07:22-00:00</lastmod>
+<lastmod>2016-12-09T12:03:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2016-11-14T21:07:22-00:00</lastmod>
+<lastmod>2016-12-09T12:03:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2016-11-14T21:07:22-00:00</lastmod>
+<lastmod>2016-12-09T12:03:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./pages/about/</loc>
-<lastmod>2016-11-14T20:08:59+08:00</lastmod>
+<lastmod>2016-12-09T11:11:09+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./sharex-wu-fa-zi-dong-geng-xin-ffmpegexe.html</loc>
+<lastmod>2016-12-09T12:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./w12_solvespace.html</loc>
+<lastmod>2016-12-09T12:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -67,21 +81,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./category/zuo-ye.html</loc>
-<lastmod>2016-11-14T12:00:00+08:06</lastmod>
+<loc>./category/sharex.html</loc>
+<lastmod>2016-12-09T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/zuo-ye.html</loc>
-<lastmod>2016-11-14T12:00:00+08:06</lastmod>
+<loc>./category/zuo-ye.html</loc>
+<lastmod>2016-12-09T12:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/sharex.html</loc>
+<lastmod>2016-12-09T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/solvespace.html</loc>
+<lastmod>2016-12-09T12:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/onshape.html</loc>
 <lastmod>2016-11-14T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -95,15 +123,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/onshape.html</loc>
-<lastmod>2016-11-14T12:00:00+08:06</lastmod>
+<loc>./tag/zuo-ye.html</loc>
+<lastmod>2016-12-09T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./author/40223205.html</loc>
-<lastmod>2016-11-14T12:00:00+08:06</lastmod>
+<lastmod>2016-12-09T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
