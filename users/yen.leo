@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Leo: http://leoeditor.com/leo_toc.html -->
+<leo_file xmlns:leo="http://leoeditor.com/namespaces/leo-python-editor/1.1" >
+<leo_header file_format="2" tnodes="0" max_tnode_index="0" clone_windows="0"/>
+<globals body_outline_ratio="0.5" body_secondary_ratio="0.5">
+	<global_window_position top="50" left="50" height="500" width="700"/>
+	<global_log_window_position top="0" left="0" height="0" width="0"/>
+</globals>
+<preferences/>
+<find_panel_settings/>
+<vnodes>
+<v t="leo.20151212173315.1" a="E"><vh>@settings</vh>
+<v t="leo.20151212173315.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
+<v t="leo.20151212173315.3"><vh>@string initial_split_orientation = horizontal</vh></v>
+</v>
+<v t="amd.20160921213353.1"><vh>2016fall 簡報與網誌樣板系統</vh></v>
+<v t="amd.20160106095324.1" a="E"><vh>@path ./../</vh>
+<v t="leo.20151213173830.1" a="E"><vh>假如要在近端檢視, 使用下列按鈕</vh>
+<v t="leo.20151213085727.1"><vh>@button pelican-blog</vh></v>
+</v>
+<v t="amd.20151215180106.1"><vh>設定與開發</vh>
+<v t="amd.20151216151325.1" a="E"><vh>@clean index.html</vh>
+<v t="amd.20161004083800.1" a="E"><vh>html</vh>
+<v t="amd.20161004083800.2"><vh>head</vh></v>
+<v t="amd.20161004083800.5" a="E"><vh>body</vh>
+<v t="amd.20161004083800.6" a="E"><vh>reveal div</vh>
+<v t="amd.20161004083800.7" a="E"><vh>slides div</vh>
+<v t="amd.20161004095719.1" a="E"><vh>封面投影片</vh>
+<v t="amd.20161004095719.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="yen.20161016024324.1" a="E"><vh>hw</vh>
+<v t="yen.20161016024324.2"><vh>10/20</vh></v>
+</v>
+<v t="leo.20161013151511.1"><vh>hw</vh>
+<v t="leo.20161013151511.2" a="E"><vh>hw</vh>
+<v t="leo.20161013151511.3"><vh>11/01</vh></v>
+</v>
+<v t="leo.20161013151511.4" a="E"><vh>主題教學內容</vh>
+<v t="leo.20161013151511.5"><vh>電腦輔助設計在教什麼?</vh></v>
+</v>
+<v t="leo.20161013151511.6" a="E"><vh>相關課程</vh>
+<v t="leo.20161013151511.7"><vh>電腦輔助設計系列課程</vh></v>
+</v>
+<v t="leo.20161013151511.8" a="E"><vh>創造力</vh>
+<v t="leo.20161013151511.9"><vh>何謂創造力?</vh></v>
+</v>
+<v t="leo.20161013151511.10" a="E"><vh>創造力</vh>
+<v t="leo.20161013151511.11"><vh>何謂創造力?</vh></v>
+</v>
+<v t="leo.20161013151511.12" a="E"><vh>所謂自學</vh>
+<v t="leo.20161013151511.13"><vh>自學的訓練</vh></v>
+<v t="leo.20161013185220.2"><vh>操作影片</vh></v>
+</v>
+<v t="leo.20161013151511.14" a="E"><vh>執行力</vh>
+<v t="leo.20161013151511.15"><vh>高效執行力</vh></v>
+</v>
+</v>
+<v t="yen.20161016024451.1" a="E"><vh>CADP 課程倉儲</vh>
+<v t="yen.20161016024451.2" a="E"><vh>不可放置</vh>
+<v t="yen.20161016024451.3"><vh>Solvespace的2D繪製</vh></v>
+</v>
+<v t="yen.20161016024451.4" a="E"><vh>不可放置</vh>
+<v t="yen.20161016024451.5"><vh>Onshape的2D繪製</vh></v>
+</v>
+<v t="yen.20161016024451.6" a="E"><vh>不可放置</vh>
+<v t="yen.20161016024451.7"><vh>Onshape的2D繪製心得</vh></v>
+</v>
+</v>
+<v t="leo.20161013184628.1" a="E"><vh>電腦輔助設計課程內涵</vh>
+<v t="amd.20161004112026.1"><vh>電腦輔助設計課程內涵</vh>
+<v t="amd.20161004112026.2"><vh>CAD 教學主題</vh></v>
+</v>
+<v t="leo.20161013152737.1" a="E"><vh>Github pages 網頁</vh>
+<v t="leo.20161013152737.2"><vh>各學員任務</vh></v>
+</v>
+<v t="leo.20161013185220.1"><vh>所有操作都必須拍影片</vh></v>
+<v t="leo.20161013185610.1" a="E"><vh>Solvespace 操作練習</vh>
+<v t="leo.20161013185610.2"><vh>Solvespace 實習</vh></v>
+</v>
+<v t="leo.20161027151655.1" a="E"><vh>Solvespace 四連桿模擬</vh>
+<v t="leo.20161027151655.2"><vh>Solvespace 模擬</vh></v>
+</v>
+<v t="leo.20161013185845.1"><vh>OnShape 操作練習</vh></v>
+<v t="yen.20161016203728.1" a="E"><vh>Nutcracker 操作練習</vh>
+<v t="yen.20161016203728.2"><vh>OnShape 實習</vh></v>
+</v>
+<v t="yen.20161016204452.1" a="E"><vh>Delta Printer 組裝</vh>
+<v t="yen.20161016204452.2"><vh>機電資產品的設計考量</vh></v>
+</v>
+<v t="leo.20161013190024.1" a="E"><vh>網際自評系統</vh>
+<v t="leo.20161013190024.2"><vh>Flask 網際程式</vh></v>
+</v>
+</v>
+<v t="yen.20161016024407.1" a="E"><vh>協同力訓練</vh>
+<v t="yen.20161016024407.2" a="E"><vh>Github 帳號</vh>
+<v t="yen.20161016024407.3"><vh>Github 倉儲網頁</vh></v>
+</v>
+<v t="yen.20161016024407.4"><vh>倉儲子模組串連</vh>
+<v t="yen.20161016024407.5"><vh>學員作業網頁定版</vh></v>
+</v>
+<v t="leo.20161013185845.2"><vh>OnShape 實習</vh></v>
+<v t="yen.20161016024407.6"><vh>倉儲版本拉回請求</vh>
+<v t="yen.20161016024407.7"><vh>Github 倉儲拉回請求</vh></v>
+</v>
+</v>
+<v t="leo.20161013184753.1" a="E"><vh>各式內容引用範例</vh>
+<v t="leo.20161013184813.1" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20161013184813.2"><vh>LaTeX 格式方程式</vh></v>
+</v>
+<v t="leo.20161013184830.1" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20161013184830.2"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20161013190351.1" a="E"><vh>導入影片</vh>
+<v t="leo.20161013190351.2"><vh>iframe 導入影片</vh></v>
+</v>
+</v>
+</v>
+</v>
+</v>
+</v>
+</v>
+<v t="leo.20151213230723.1"><vh>Pelican 設定</vh>
+<v t="leo.20151213230957.1"><vh>文章 Date 設定</vh></v>
+<v t="leo.20151213230729.1"><vh>使用 summary plugin</vh></v>
+</v>
+<v t="amd.20151215170117.1"><vh>以下 pelicanconf.py 為近端與遠端的共同設定</vh></v>
+<v t="leo.20151212173725.1"><vh>@edit pelicanconf.py</vh></v>
+<v t="amd.20151215170221.1"><vh>以下 local_publishconf.py 為近端所使用的設定</vh></v>
+<v t="leo.20151213085752.1"><vh>@edit local_publishconf.py</vh></v>
+</v>
+</v>
+<v t="amd.20151215170350.1"><vh>以下為 content 目錄中的 md 檔案</vh></v>
+<v t="amd.20151216001126.1"><vh>md 檔案範例</vh></v>
+<v t="amd.20151215170031.1" a="E"><vh>@path ./../content</vh>
+<v t="amd.20160106093454.1" a="E"><vh>yen 所寫的網誌文章</vh>
+<v t="amd.20160727114506.1" a="E"><vh>201609</vh>
+<v t="leo.20161103222320.1"><vh>@@edit 20161020.md</vh></v>
+<v t="leo.20161104011926.1"><vh>@edit 20161020.md</vh></v>
+<v t="yen.20161022120807.1"><vh>@@edit 20161101.md</vh></v>
+<v t="leo.20161104011933.1"><vh>@edit 20161101.md</vh></v>
+<v t="leo.20161114201406.1"><vh>@edit 20161114.md</vh></v>
+<v t="leo.20161209111450.1"><vh>@edit 20161209.md</vh></v>
+<v t="leo.20161209111452.1"><vh>@edit 20161209(1).md</vh></v>
+</v>
+</v>
+</v>
+<v t="amd.20160106094754.1"><vh>@path ./../content/pages</vh>
+<v t="amd.20160106094829.1" a="E"><vh>yen 所寫的 pages 文章</vh>
+<v t="amd.20160106094844.1"><vh>@edit pages_1.md</vh></v>
+</v>
+</v>
+<v t="amd.20161004202833.1"><vh>@edit ../README.md</vh></v>
+<v t="yen.20161022120729.1"><vh>@button https server</vh></v>
+<v t="yen.20161022151728.1"><vh>產生 .key 與 .crt</vh></v>
+</vnodes>
+<tnodes>
+<t tx="amd.20151215170031.1"></t>
+<t tx="amd.20151215170117.1"></t>
+<t tx="amd.20151215170221.1"></t>
+<t tx="amd.20151215170350.1"></t>
+<t tx="amd.20151215180106.1"></t>
+<t tx="amd.20151216001126.1">@language md
+Title: 文章標題 (請注意各文章的標題不可相同, 比較保險的作法是冠上四個學號尾碼)
+Date: 2016-09-2 12:00
+Category: 類別
+Tags: 標籤
+Author: yen
+
+這裡放入文章摘要
+
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+這裡為文章主要內容
+
+程式碼
+
+&lt;pre class="brush: python;"&gt;
+print("hello")
+&lt;/pre&gt;</t>
+<t tx="amd.20151216151325.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="amd.20160106093454.1"></t>
+<t tx="amd.20160106094754.1"></t>
+<t tx="amd.20160106094829.1"></t>
+<t tx="amd.20160106095324.1"></t>
+<t tx="amd.20160727114506.1"></t>
+<t tx="amd.20160921213353.1"></t>
+<t tx="amd.20161004083800.1">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+@others
+&lt;/html&gt;
+</t>
+<t tx="amd.20161004083800.2">&lt;head&gt;
+    &lt;meta charset="utf-8"&gt;
+&lt;title&gt;
+2016 Fall 電腦輔助設計實習課程
+&lt;/title&gt;
+    &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
+    &lt;meta name="author" content="Hakim El Hattab"&gt;
+    
+    &lt;meta name="apple-mobile-web-app-capable" content="yes"&gt;
+    &lt;meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"&gt;
+    
+    &lt;meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"&gt;
+    
+    &lt;link rel="stylesheet" href="https://cad-lab.github.io/cadlab_data/reveal/css/reveal.css"&gt;
+    &lt;link rel="stylesheet" href="https://cad-lab.github.io/cadlab_data/reveal/css/theme/black.css" id="theme"&gt;
+    
+    &lt;!-- Theme used for syntax highlighting of code --&gt;
+    &lt;link rel="stylesheet" href="https://cad-lab.github.io/cadlab_data/reveal/lib/css/zenburn.css"&gt;
+
+    &lt;!-- Printing and PDF exports --&gt;
+    &lt;script&gt;
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = window.location.search.match( /print-pdf/gi ) ? 'https://cad-lab.github.io/cadlab_data/reveal/css/print/pdf.css' : 'https://cad-lab.github.io/cadlab_data/reveal/css/print/paper.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    &lt;/script&gt;
+
+    &lt;!--[if lt IE 9]&gt;
+    &lt;script src="https://cad-lab.github.io/cadlab_data/reveal/lib/js/html5shiv.js"&gt;&lt;/script&gt;
+    &lt;![endif]--&gt;
+&lt;/head&gt;
+
+</t>
+<t tx="amd.20161004083800.5">&lt;body&gt;
+@others
+&lt;script src="https://cad-lab.github.io/cadlab_data/reveal/lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="https://cad-lab.github.io/cadlab_data/reveal/js/reveal.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+        // More info https://github.com/hakimel/reveal.js#configuration
+        Reveal.initialize({
+            controls: true,
+            progress: true,
+            history: true,
+            center: true,
+
+            transition: 'slide', // none/fade/slide/convex/concave/zoom
+
+            // More info https://github.com/hakimel/reveal.js#dependencies
+            dependencies: [
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/zoom-js/zoom.js', async: true },
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/notes/notes.js', async: true },
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/math/math.js', async: true }
+            ]
+        });
+&lt;/script&gt;
+&lt;/body&gt;
+</t>
+<t tx="amd.20161004083800.6">&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+
+</t>
+<t tx="amd.20161004083800.7">&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+
+</t>
+<t tx="amd.20161004095719.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="amd.20161004095719.2">## 2016Fall 電腦輔助設計實習課程
+
+### 40223205 的簡報
+
+&lt;small&gt;
+Created by [40223205](https://40223205.github.io/2016fallcadp_hw/blog/index.html)
+&lt;/small&gt;
+
+[40223205](blog/index.html)
+
+[40223205 的Vimeo](https://vimeo.com/user41090834/videos)
+
+[Vimeo 上課影片](https://vimeo.com/user24079973/videos)
+
+
+</t>
+<t tx="amd.20161004112026.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+</t>
+<t tx="amd.20161004112026.2"></t>
+<t tx="leo.20151212173315.1"></t>
+<t tx="leo.20151212173315.2">QTreeWidget {
+    /* These apply to the selected item, but not to editing items.*/
+    background-color: #ffffec; /* Leo's traditional tree color */
+    selection-color: black; /* was white */
+    selection-background-color: lightgrey;
+    /* font-family: SansSerif; */
+    /*font-family: DejaVu Sans Mono;*/
+    font-family:YaHei Mono;
+    /* 標題字型大小設定 */
+    font-size: 20px;
+    font-weight: normal; /* normal,bold,100,..,900 */
+    font-style: normal; /* normal, italic,oblique */
+ }
+
+/* Headline edit widgets */
+QTreeWidget QLineEdit {
+    background-color: cornsilk;
+    selection-color: white;
+    selection-background-color: blue;
+    /*font-family: DejaVu Sans Mono;*/    
+    font-family:YaHei Mono;
+    /* 沒有特別對應字型大小 */
+    font-size: 20px;
+    font-weight: normal; /* normal,bold,100,..,900 */
+    font-style: normal; /* normal, italic,oblique */
+}
+
+/* The log panes */
+QTextEdit {
+    background-color: #f2fdff;
+    selection-color: red;
+    selection-background-color: blue;
+    /* font-family: Courier New; */
+    font-family:YaHei Mono;
+    /* log font 大小 */
+    font-size: 20px;
+    font-weight: normal; /* normal,bold,100,..,900 */
+    font-style: normal; /* normal, italic,oblique */
+}
+
+/* The body pane */
+QTextEdit#richTextEdit {
+    background-color: #fdf5f5; /* A kind of pink. */
+    selection-color: white;
+    selection-background-color: red;
+    /*font-family: DejaVu Sans Mono;*/
+    /* font-family: Courier New; */
+    font-family:YaHei Mono;
+    /* 內文字型大小 */
+    font-size: 20px;
+    font-weight: normal; /* normal,bold,100,..,900 */
+    font-style: normal; /* normal,italic,oblique */
+}
+
+QLabel {
+    font-family:YaHei Mono;'CherryPy', 'pytz', 'mako', 'beautifulsoup4', 'pymysql', 'peewee'
+    /* 下方的 Minibuffer 標題字型大小 */
+    font-size: 20px;
+    font-weight: normal; /* normal,bold,100,..,900 */
+    font-style: normal; /* normal,italic,oblique */
+}
+
+/* Editor labels */
+QLineEdit#editorLabel {
+    background-color: #ffffec;
+    font-family:YaHei Mono;
+    /* 沒有直接對應字型大小 */
+    font-size: 20px;
+    font-weight: normal; /* normal,bold,100,..,900 */
+    font-style: normal; /* normal,italic,oblique */
+    border: 2px;
+    margin: 2px;
+}</t>
+<t tx="leo.20151212173315.3">horizontal: body pane to the left
+vertical: body pane on the botton</t>
+<t tx="leo.20151213085727.1">@language python
+import os
+#os.system("pelican content -o output -s local_publishconf.py -t theme/pelican-bootstrap3")
+os.system("pelican content -o blog -s local_publishconf.py")
+g.es("admin pelican 近端執行完畢")
+
+
+</t>
+<t tx="leo.20151213173830.1"></t>
+<t tx="leo.20151213230723.1"></t>
+<t tx="leo.20151213230729.1">利用
+
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+來界定 Summary 摘要內容
+
+前提, 必須設定 
+
+PLUGIN_PATHS = ['plugin']
+
+與
+
+PLUGINS = ['liquid_tags.notebook', 'summary']
+
+並且從 https://github.com/getpelican/pelican-plugins
+
+取得 summary plugin</t>
+<t tx="leo.20151213230957.1"># 設定網誌以 md 檔案建立的 file system date 為準, 無需自行設定
+
+DEFAULT_DATE = 'fs'</t>
+<t tx="leo.20161013151511.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20161013151511.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161013151511.11"></t>
+<t tx="leo.20161013151511.12">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161013151511.13">
+</t>
+<t tx="leo.20161013151511.14">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161013151511.15">
+
+</t>
+<t tx="leo.20161013151511.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161013151511.3">11/01_Onshape 零件練習(無聲) 
+
+&lt;iframe src="https://player.vimeo.com/video/189767174" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+Onshape為線上註冊使用的web型繪圖載具、相較於Solvespace來說可輕鬆上網更改圖形
+</t>
+<t tx="leo.20161013151511.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161013151511.5">&lt;img src="w7/cadp_w7_fourbar.png" width= "800" /&gt;
+
+</t>
+<t tx="leo.20161013151511.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161013151511.7"></t>
+<t tx="leo.20161013151511.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161013151511.9"></t>
+<t tx="leo.20161013152737.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161013152737.2"></t>
+<t tx="leo.20161013184628.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20161013184753.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161013184813.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20161013184813.2">
+</t>
+<t tx="leo.20161013184830.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20161013184830.2"></t>
+<t tx="leo.20161013185220.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161013185220.2"></t>
+<t tx="leo.20161013185610.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161013185610.2"></t>
+<t tx="leo.20161013185845.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161013185845.2"></t>
+<t tx="leo.20161013190024.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161013190024.2"></t>
+<t tx="leo.20161013190351.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161013190351.2">## 使用 iframe 導入影片
+
+### 導入影片 template
+
+&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20161027151655.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161027151655.2">## Solvespace 四連桿模擬
+
+&lt;img src="w7/cadp_w7_fourbar.png" width= "800" /&gt;
+</t>
+<t tx="leo.20161103222320.1">@language md
+Title: 10/20_Solvespace-練習零件繪製(無聲)
+Date: 2016-10-20 12:00
+Category: 作業
+Tags: 作業, Solvespace
+Author: 40223205
+
+知識管理與最佳化應用實驗室試圖利用計算機程式、網際內容管理、電腦輔助設計實習與協同產品設計實習等課程, 進行與機械設計相關的主題式教學, 其中包含強化創造力的教學、令學員熟習六種工程表達方式, 並且俱備融入協同設計所需要的四大面向知識與技能.
+
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+# 機械設計主題教學
+
+
+
+</t>
+<t tx="yen.20161016024324.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="yen.20161016024324.2">10/20_Solvespace-練習零件繪製(無聲)
+
+
+
+&lt;iframe src="https://player.vimeo.com/video/188134062" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+心得：Solvespace容量小、畫起圖操作簡單
+</t>
+<t tx="yen.20161016024407.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="yen.20161016024407.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="yen.20161016024407.3"></t>
+<t tx="yen.20161016024407.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="yen.20161016024407.5"># 學員作業網頁定版
+
+###個人作業網頁內容可以隨時改版
+###分組評量網頁必須在指定時間前定版
+###Github 倉儲 gh-pages分支與子模組應用
+</t>
+<t tx="yen.20161016024407.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="yen.20161016024407.7"># Github 倉儲拉回請求
+
+####分組倉儲 Collaborators 設定
+####分組倉儲版本 Pull Requests 練習
+####各組員實際操作影片錄製
+####操作影片加字幕以及影片檔相加
+</t>
+<t tx="yen.20161016024451.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="yen.20161016024451.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+</t>
+<t tx="yen.20161016024451.3">Solvespace的2D繪製
+
+&lt;iframe src="https://player.vimeo.com/video/191365819" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+Solvespace繪製2D有點麻煩,因過學過其他的軟體,所以使用起來有點不直覺和不慣用</t>
+<t tx="yen.20161016024451.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="yen.20161016024451.5">
+Onshape的2D繪製
+
+
+&lt;iframe src="https://player.vimeo.com/video/191464379" width="640" height="492" frameborder="0" 
+webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="yen.20161016024451.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="yen.20161016024451.7">                                                                 Onshape的2D繪製心得
+
+Onshape在繪製2d過是輕鬆的,使用介面與指令和cad 一致 所以學過此軟體的人都可以得心應手指令
+當中使用到的指令有 C-圓、D-標註、X-修剪
+在按指令的過程中反應是有點慢
+</t>
+<t tx="yen.20161016203728.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="yen.20161016203728.2">
+</t>
+<t tx="yen.20161016204452.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="yen.20161016204452.2"></t>
+<t tx="yen.20161022120729.1">@language python
+import os
+import subprocess
+import threading
+import http.server, ssl
+
+def domake():
+    # build directory
+    os.chdir("./../")
+    server_address = ('localhost', 7443)
+    httpd = http.server.HTTPServer(server_address, http.server.SimpleHTTPRequestHandler)
+    httpd.socket = ssl.wrap_socket(httpd.socket,
+                                   server_side=True,
+                                   certfile='localhost.crt',
+                                   keyfile='localhost.key',
+                                   ssl_version=ssl.PROTOCOL_TLSv1)
+    print("7443 https server started")
+    httpd.serve_forever()
+
+# 利用執行緒執行 https 伺服器
+make = threading.Thread(target=domake)
+make.start()</t>
+<t tx="yen.20161022120807.1">@language md
+Title: 11/01_Onshape 零件練習(無聲) 
+Date: 2016-11-01 12:00
+Category: 作業
+Tags: 作業, Onshape
+Author: 40223205
+
+</t>
+<t tx="yen.20161022151728.1">sudo openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout localhost.key -out localhost.crt
+
+</t>
+</tnodes>
+</leo_file>
