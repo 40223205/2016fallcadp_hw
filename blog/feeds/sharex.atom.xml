@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/sharex.atom.xml" rel="self"></link><id>./</id><updated>2016-12-09T12:00:00+08:00</updated><entry><title>shareX 無法自動更新ffmpeg.exe</title><link href="./sharex-wu-fa-zi-dong-geng-xin-ffmpegexe.html" rel="alternate"></link><published>2016-12-09T12:00:00+08:00</published><updated>2016-12-09T12:00:00+08:00</updated><author><name>40223205</name></author><id>tag:,2016-12-09:./sharex-wu-fa-zi-dong-geng-xin-ffmpegexe.html</id><summary type="html">&lt;h3&gt;shareX&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/sharex.atom.xml" rel="self"></link><id>./</id><updated>2017-01-06T12:00:00+08:00</updated><entry><title>w16</title><link href="./w16.html" rel="alternate"></link><published>2017-01-06T12:00:00+08:00</published><updated>2017-01-06T12:00:00+08:00</updated><author><name>40223205</name></author><id>tag:,2017-01-06:./w16.html</id><summary type="html">&lt;p&gt;教材:
+&lt;a href="http://chiamingyen.github.io/kmolab_data/files/ProEMechanism.pdf"&gt;http://chiamingyen.github.io/kmolab_data/files/ProEMechanism.pdf&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;利用Onshape 教材繪畫裡面的組零件,在開啟老師的Solvespace檔案觀看相對運動&lt;/p&gt;
+&lt;h1&gt;Solvespace&lt;/h1&gt;
+&lt;p&gt;&lt;img src="../w16/0.png" width="800" /&gt;&lt;/p&gt;
+&lt;h1&gt;Onshape&lt;/h1&gt;
+&lt;h3&gt;圖&lt;/h3&gt;
+&lt;p&gt;&lt;img src="../w16/1.png" width="800" /&gt;
+&lt;img src="../w16/2.png" width="800" /&gt;
+&lt;img src="../w16/3.png" width="800" /&gt;
+&lt;img src="../w16/4.png" width="800" /&gt;
+&lt;img src="../w16/5.png" width="800" /&gt;
+&lt;img src="../w16/6.png" width="800" /&gt;
+&lt;img src="../w16/7.png" width="800" /&gt;
+&lt;img src="../w16/8.png" width="800" /&gt;
+&lt;img src="../w16/9.png" width="800" /&gt;
+&lt;img src="../w16/10.png" width="800" /&gt;&lt;/p&gt;
+&lt;h3&gt;影片&lt;/h3&gt;
+&lt;p&gt;a.零件、組立&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/198384503" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;b.問題:如何精確的得知此機構的運動約束位置&lt;/h3&gt;
+&lt;iframe src="https://player.vimeo.com/video/198386173" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;組裝後假設機構的最小位置(如下圖)為1.5in 再來設定圓桿的最小與最大衝程即可得出答案&lt;/p&gt;
+&lt;p&gt;&lt;img src="../w16/11.png" width="500" /&gt;&lt;/p&gt;
+&lt;h3&gt;心得&lt;/h3&gt;
+&lt;p&gt;此機構有滑動運動還有轉動運動,Onshape組立可以直接點選作動進行約束,在曲柄與圓桿部分進行同心圓約束就可以進行運動.
+在線上組合這點我給Onshape很高的評價,他可以直接進行點與面的約束,反觀軟體也可做卻無法直觀的點選,需要做很多步驟.&lt;/p&gt;</summary><category term="作業"></category><category term="Solvespace"></category><category term="Onshape"></category></entry><entry><title>shareX 無法自動更新ffmpeg.exe</title><link href="./sharex-wu-fa-zi-dong-geng-xin-ffmpegexe.html" rel="alternate"></link><published>2016-12-09T12:00:00+08:00</published><updated>2016-12-09T12:00:00+08:00</updated><author><name>40223205</name></author><id>tag:,2016-12-09:./sharex-wu-fa-zi-dong-geng-xin-ffmpegexe.html</id><summary type="html">&lt;h3&gt;shareX&lt;/h3&gt;
 &lt;p&gt;電腦無法自動更新ffmpeg.exe &lt;/p&gt;
 &lt;p&gt;到下列網址下載ffmpeg-20161208-3ab1311-win64-static：
 &lt;a href="https://ffmpeg.zeranoe.com/builds/"&gt;https://ffmpeg.zeranoe.com/builds/&lt;/a&gt;&lt;/p&gt;</summary><category term="shareX"></category></entry></feed>
