@@ -18,7 +18,7 @@
 <v t="leo.20151213173830.1" a="E"><vh>假如要在近端檢視, 使用下列按鈕</vh>
 <v t="leo.20151213085727.1"><vh>@button pelican-blog</vh></v>
 </v>
-<v t="amd.20151215180106.1"><vh>設定與開發</vh>
+<v t="amd.20151215180106.1" a="E"><vh>設定與開發</vh>
 <v t="amd.20151216151325.1" a="E"><vh>@clean index.html</vh>
 <v t="amd.20161004083800.1" a="E"><vh>html</vh>
 <v t="amd.20161004083800.2"><vh>head</vh></v>
@@ -31,87 +31,73 @@
 <v t="yen.20161016024324.1" a="E"><vh>hw</vh>
 <v t="yen.20161016024324.2"><vh>10/20</vh></v>
 </v>
-<v t="leo.20161013151511.1"><vh>hw</vh>
+<v t="leo.20161013151511.1" a="E"><vh>hw</vh>
 <v t="leo.20161013151511.2" a="E"><vh>hw</vh>
 <v t="leo.20161013151511.3"><vh>11/01</vh></v>
 </v>
-<v t="leo.20161013151511.4" a="E"><vh>主題教學內容</vh>
-<v t="leo.20161013151511.5"><vh>電腦輔助設計在教什麼?</vh></v>
 </v>
-<v t="leo.20161013151511.6" a="E"><vh>相關課程</vh>
-<v t="leo.20161013151511.7"><vh>電腦輔助設計系列課程</vh></v>
-</v>
-<v t="leo.20161013151511.8" a="E"><vh>創造力</vh>
-<v t="leo.20161013151511.9"><vh>何謂創造力?</vh></v>
-</v>
-<v t="leo.20161013151511.10" a="E"><vh>創造力</vh>
-<v t="leo.20161013151511.11"><vh>何謂創造力?</vh></v>
-</v>
-<v t="leo.20161013151511.12" a="E"><vh>所謂自學</vh>
-<v t="leo.20161013151511.13"><vh>自學的訓練</vh></v>
-<v t="leo.20161013185220.2"><vh>操作影片</vh></v>
-</v>
-<v t="leo.20161013151511.14" a="E"><vh>執行力</vh>
-<v t="leo.20161013151511.15"><vh>高效執行力</vh></v>
-</v>
-</v>
-<v t="yen.20161016024451.1" a="E"><vh>CADP 課程倉儲</vh>
-<v t="yen.20161016024451.2" a="E"><vh>不可放置</vh>
+<v t="yen.20161016024451.1" a="E"><vh>x</vh>
+<v t="yen.20161016024451.2"><vh>不可放置</vh>
 <v t="yen.20161016024451.3"><vh>Solvespace的2D繪製</vh></v>
 </v>
-<v t="yen.20161016024451.4" a="E"><vh>不可放置</vh>
+<v t="yen.20161016024451.4"><vh>不可放置</vh>
 <v t="yen.20161016024451.5"><vh>Onshape的2D繪製</vh></v>
 </v>
-<v t="yen.20161016024451.6" a="E"><vh>不可放置</vh>
+<v t="yen.20161016024451.6"><vh>不可放置</vh>
 <v t="yen.20161016024451.7"><vh>Onshape的2D繪製心得</vh></v>
 </v>
 </v>
-<v t="leo.20161013184628.1" a="E"><vh>電腦輔助設計課程內涵</vh>
-<v t="amd.20161004112026.1"><vh>電腦輔助設計課程內涵</vh>
-<v t="amd.20161004112026.2"><vh>CAD 教學主題</vh></v>
+<v t="leo.20161013184628.1" a="E"><vh>x</vh>
+<v t="amd.20161004112026.1" a="E"><vh>x</vh>
+<v t="amd.20161004112026.2"><vh>w12_Solvespace-1</vh></v>
 </v>
-<v t="leo.20161013152737.1" a="E"><vh>Github pages 網頁</vh>
-<v t="leo.20161013152737.2"><vh>各學員任務</vh></v>
+<v t="leo.20161013152737.1" a="E"><vh>x</vh>
+<v t="leo.20161013152737.2"><vh>w12_Solvespace2</vh></v>
 </v>
-<v t="leo.20161013185220.1"><vh>所有操作都必須拍影片</vh></v>
-<v t="leo.20161013185610.1" a="E"><vh>Solvespace 操作練習</vh>
-<v t="leo.20161013185610.2"><vh>Solvespace 實習</vh></v>
+<v t="leo.20161027151655.1" a="E"><vh>x</vh>
+<v t="leo.20161027151655.2"><vh>w12_Solvespace3</vh></v>
 </v>
-<v t="leo.20161027151655.1" a="E"><vh>Solvespace 四連桿模擬</vh>
-<v t="leo.20161027151655.2"><vh>Solvespace 模擬</vh></v>
+<v t="yen.20161016203728.1" a="E"><vh>x</vh>
+<v t="yen.20161016203728.2"><vh>w12_Solvespace4</vh></v>
 </v>
-<v t="leo.20161013185845.1"><vh>OnShape 操作練習</vh></v>
-<v t="yen.20161016203728.1" a="E"><vh>Nutcracker 操作練習</vh>
-<v t="yen.20161016203728.2"><vh>OnShape 實習</vh></v>
-</v>
-<v t="yen.20161016204452.1" a="E"><vh>Delta Printer 組裝</vh>
-<v t="yen.20161016204452.2"><vh>機電資產品的設計考量</vh></v>
-</v>
-<v t="leo.20161013190024.1" a="E"><vh>網際自評系統</vh>
-<v t="leo.20161013190024.2"><vh>Flask 網際程式</vh></v>
+<v t="yen.20161016204452.1" a="E"><vh>x</vh>
+<v t="yen.20161016204452.2"><vh>w12_Solvespace5</vh></v>
 </v>
 </v>
-<v t="yen.20161016024407.1" a="E"><vh>協同力訓練</vh>
-<v t="yen.20161016024407.2" a="E"><vh>Github 帳號</vh>
-<v t="yen.20161016024407.3"><vh>Github 倉儲網頁</vh></v>
-</v>
-<v t="yen.20161016024407.4"><vh>倉儲子模組串連</vh>
-<v t="yen.20161016024407.5"><vh>學員作業網頁定版</vh></v>
-</v>
-<v t="leo.20161013185845.2"><vh>OnShape 實習</vh></v>
-<v t="yen.20161016024407.6"><vh>倉儲版本拉回請求</vh>
-<v t="yen.20161016024407.7"><vh>Github 倉儲拉回請求</vh></v>
+<v t="leo.20170107042548.1" a="E"><vh>z</vh>
+<v t="leo.20170107042548.2" a="E"><vh>z</vh>
+<v t="leo.20170107042548.3"><vh>w13</vh></v>
 </v>
 </v>
-<v t="leo.20161013184753.1" a="E"><vh>各式內容引用範例</vh>
-<v t="leo.20161013184813.1" a="E"><vh>導入數學符號與方程式</vh>
-<v t="leo.20161013184813.2"><vh>LaTeX 格式方程式</vh></v>
+<v t="leo.20170107042746.1" a="E"><vh>z</vh>
+<v t="leo.20170107042746.2" a="E"><vh>z</vh>
+<v t="leo.20170107042746.3"><vh>w14-1</vh></v>
 </v>
-<v t="leo.20161013184830.1" a="E"><vh>導入縮排程式碼</vh>
-<v t="leo.20161013184830.2"><vh>引用程式碼</vh></v>
+<v t="leo.20170107043402.1" a="E"><vh>x</vh>
+<v t="leo.20170107043402.2"><vh>w14-2</vh></v>
 </v>
-<v t="leo.20161013190351.1" a="E"><vh>導入影片</vh>
-<v t="leo.20161013190351.2"><vh>iframe 導入影片</vh></v>
+<v t="leo.20170107043510.1"><vh>x</vh>
+<v t="leo.20170107043510.2"><vh>w14-3</vh></v>
+</v>
+<v t="leo.20170107043658.1" a="E"><vh>x</vh>
+<v t="leo.20170107043658.2"><vh>w14-4</vh></v>
+</v>
+</v>
+<v t="yen.20161016024407.1" a="E"><vh>x</vh>
+<v t="yen.20161016024407.2"><vh>x</vh>
+<v t="yen.20161016024407.3"><vh>w16-Onshape-1</vh></v>
+</v>
+<v t="yen.20161016024407.4" a="E"><vh>x</vh>
+<v t="yen.20161016024407.5"><vh>w16-Onshape-2</vh></v>
+</v>
+<v t="leo.20161013185845.2"><vh>x</vh></v>
+<v t="yen.20161016024407.6" a="E"><vh>x</vh>
+<v t="yen.20161016024407.7"><vh>w16-Onshape-3</vh></v>
+</v>
+</v>
+<v t="leo.20161013184753.1" a="E"><vh>z</vh>
+<v t="leo.20161013184813.1" a="E"><vh>z</vh>
+<v t="leo.20161013184813.2"><vh>w17</vh></v>
 </v>
 </v>
 </v>
@@ -144,6 +130,7 @@
 <v t="leo.20170106225937.1"><vh>@edit w16.md</vh></v>
 <v t="leo.20170106234825.1"><vh>@edit W13.md</vh></v>
 <v t="leo.20170107001838.1"><vh>@edit W14.md</vh></v>
+<v t="leo.20170107044001.1"><vh>@edit W17.md</vh></v>
 </v>
 </v>
 </v>
@@ -302,7 +289,11 @@ Created by [40223205](https://40223205.github.io/2016fallcadp_hw/blog/index.html
 
 
 </t>
-<t tx="amd.20161004112026.2"></t>
+<t tx="amd.20161004112026.2">w12_Solvespace
+
+(a.)block
+
+&lt;iframe src="https://player.vimeo.com/video/194924122" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20151212173315.1"></t>
 <t tx="leo.20151212173315.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -413,39 +404,6 @@ DEFAULT_DATE = 'fs'</t>
 @others
 &lt;/section&gt;
 </t>
-<t tx="leo.20161013151511.10">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20161013151511.11"></t>
-<t tx="leo.20161013151511.12">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20161013151511.13">
-</t>
-<t tx="leo.20161013151511.14">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20161013151511.15">
-
-</t>
 <t tx="leo.20161013151511.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -461,38 +419,6 @@ DEFAULT_DATE = 'fs'</t>
 
 Onshape為線上註冊使用的web型繪圖載具、相較於Solvespace來說可輕鬆上網更改圖形
 </t>
-<t tx="leo.20161013151511.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20161013151511.5">&lt;img src="w7/cadp_w7_fourbar.png" width= "800" /&gt;
-
-</t>
-<t tx="leo.20161013151511.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20161013151511.7"></t>
-<t tx="leo.20161013151511.8">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20161013151511.9"></t>
 <t tx="leo.20161013152737.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -502,7 +428,10 @@ Onshape為線上註冊使用的web型繪圖載具、相較於Solvespace來說可
 
 						
 </t>
-<t tx="leo.20161013152737.2"></t>
+<t tx="leo.20161013152737.2">(b.)bar
+
+
+&lt;iframe src="https://player.vimeo.com/video/194933777" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20161013184628.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -522,74 +451,12 @@ Onshape為線上註冊使用的web型繪圖載具、相較於Solvespace來說可
 						
 </t>
 <t tx="leo.20161013184813.2">
-</t>
-<t tx="leo.20161013184830.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
+W17 學期總整理 補完該補的也回顧課程上我們做了些甚麼,和同學的合作是那麼的愉快.
 
+學期結束
 
-
-						
-</t>
-<t tx="leo.20161013184830.2"></t>
-<t tx="leo.20161013185220.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20161013185220.2"></t>
-<t tx="leo.20161013185610.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20161013185610.2"></t>
-<t tx="leo.20161013185845.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
+謝謝老師了(笑)</t>
 <t tx="leo.20161013185845.2"></t>
-<t tx="leo.20161013190024.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20161013190024.2"></t>
-<t tx="leo.20161013190351.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20161013190351.2">## 使用 iframe 導入影片
-
-### 導入影片 template
-
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
 <t tx="leo.20161027151655.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -599,9 +466,10 @@ Onshape為線上註冊使用的web型繪圖載具、相較於Solvespace來說可
 
 						
 </t>
-<t tx="leo.20161027151655.2">## Solvespace 四連桿模擬
+<t tx="leo.20161027151655.2">(c)組立
 
-&lt;img src="w7/cadp_w7_fourbar.png" width= "800" /&gt;
+&lt;img src="w12_Solvespace/1.png" width="800" /&gt;
+
 </t>
 <t tx="leo.20161103222320.1">@language md
 Title: 10/20_Solvespace-練習零件繪製(無聲)
@@ -618,6 +486,101 @@ Author: 40223205
 
 
 
+</t>
+<t tx="leo.20170107042548.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170107042548.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170107042548.3">w13 
+
+問題: github 推上去之後blog無法更新
+
+解決指令
+
+               &lt;pre&gt;git rm -r -f plugin/liquid_tags/test_data&lt;/pre&gt;
+
+心得
+
+github 推上去之後blog無法更新,沒有留意到 github寄給我的信
+導致反覆的推送才有6x次的更新紀錄.依舊幫QQ
+</t>
+<t tx="leo.20170107042746.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170107042746.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170107042746.3">###w14 
+
+fourbar
+
+練習fourbar的作動,首先把連桿的約束找出來
+畫線後給尺寸,其中40長度線是用來作動整個fourbar
+
+&lt;img src="w14/0.png" width="450" /&gt;  &lt;img src="w14/1.png" width="450" /&gt;
+
+</t>
+<t tx="leo.20170107043402.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170107043402.2">###w14 
+
+利用Onshape畫出fourbar
+
+&lt;img src="w14/3.png" width="800" /&gt;</t>
+<t tx="leo.20170107043510.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170107043510.2">###w14 
+
+3D印表機
+
+&lt;img src="w14/2.png" width="800" /&gt;
+</t>
+<t tx="leo.20170107043658.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170107043658.2">###w14 
+
+心得
+
+Solvespace的組立真心難用,所以我用Onshape畫了一次fourbar能轉動但是約束60卻一直做不出來方能,希望方能改進自己更加學會使用Onshape.
 </t>
 <t tx="yen.20161016024324.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -648,7 +611,13 @@ Author: 40223205
 
 						
 </t>
-<t tx="yen.20161016024407.3"></t>
+<t tx="yen.20161016024407.3">w16-Onshape
+
+a.零件、組立
+
+
+&lt;iframe src="https://player.vimeo.com/video/198384503" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 <t tx="yen.20161016024407.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -658,12 +627,13 @@ Author: 40223205
 
 						
 </t>
-<t tx="yen.20161016024407.5"># 學員作業網頁定版
+<t tx="yen.20161016024407.5">
+b.問題:如何精確的得知此機構的運動約束位置
 
-###個人作業網頁內容可以隨時改版
-###分組評量網頁必須在指定時間前定版
-###Github 倉儲 gh-pages分支與子模組應用
-</t>
+&lt;iframe src="https://player.vimeo.com/video/198386173" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+組裝後假設機構的最小位置為(1.5in) 再來設定圓桿的最小與最大衝程即可得出答案</t>
 <t tx="yen.20161016024407.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -673,13 +643,10 @@ Author: 40223205
 
 						
 </t>
-<t tx="yen.20161016024407.7"># Github 倉儲拉回請求
+<t tx="yen.20161016024407.7">心得
 
-####分組倉儲 Collaborators 設定
-####分組倉儲版本 Pull Requests 練習
-####各組員實際操作影片錄製
-####操作影片加字幕以及影片檔相加
-</t>
+此機構有滑動運動還有轉動運動,Onshape組立可以直接點選作動進行約束,在曲柄與圓桿部分進行同心圓約束就可以進行運動.
+在線上組合這點我給Onshape很高的評價,他可以直接進行點與面的約束,反觀軟體也可做卻無法直觀的點選,需要做很多步驟.</t>
 <t tx="yen.20161016024451.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -740,7 +707,10 @@ Onshape在繪製2d過是輕鬆的,使用介面與指令和cad 一致 所以學�
 						
 </t>
 <t tx="yen.20161016203728.2">
-</t>
+心得
+
+練習Solvespace教材的組立,觀看老師的教學可以輕鬆做出來,可零件在網頁上一直顯示錯誤,零件的地址已經改相對卻一直失敗,練習很多次.
+畫畫不難,作業也不難,難的是你按部就班還是會錯誤,幫QQ</t>
 <t tx="yen.20161016204452.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -750,7 +720,12 @@ Onshape在繪製2d過是輕鬆的,使用介面與指令和cad 一致 所以學�
 
 						
 </t>
-<t tx="yen.20161016204452.2"></t>
+<t tx="yen.20161016204452.2">shareX 
+
+電腦無法自動更新ffmpeg.exe 
+
+到下列網址下載ffmpeg-20161208-3ab1311-win64-static：
+&lt;a href="https://ffmpeg.zeranoe.com/builds/"&gt;https://ffmpeg.zeranoe.com/builds/&lt;/a&gt;</t>
 <t tx="yen.20161022120729.1">@language python
 import os
 import subprocess
