@@ -126,11 +126,12 @@
 <v t="leo.20161104011933.1"><vh>@edit 20161101.md</vh></v>
 <v t="leo.20161114201406.1"><vh>@edit 20161114.md</vh></v>
 <v t="leo.20161209111450.1"><vh>@edit 20161209.md</vh></v>
-<v t="leo.20161209111452.1"><vh>@edit 20161209(1).md</vh></v>
 <v t="leo.20170106225937.1"><vh>@edit w16.md</vh></v>
 <v t="leo.20170106234825.1"><vh>@edit W13.md</vh></v>
+<v t="leo.20161209111452.1"><vh>@edit 20161209(1).md</vh></v>
 <v t="leo.20170107001838.1"><vh>@edit W14.md</vh></v>
 <v t="leo.20170107044001.1"><vh>@edit W17.md</vh></v>
+<v t="leo.20170113101025.1"><vh>@edit W18.md</vh></v>
 </v>
 </v>
 </v>
@@ -580,7 +581,7 @@ fourbar
 
 心得
 
-Solvespace的組立真心難用,所以我用Onshape畫了一次fourbar能轉動但是約束60卻一直做不出來方能,希望方能改進自己更加學會使用Onshape.
+Solvespace的組立真心難用,所以我用Onshape畫了一次fourbar能轉動但是約束60卻一直做不出來,希望方能改進自己更加學會使用Onshape.
 </t>
 <t tx="yen.20161016024324.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
